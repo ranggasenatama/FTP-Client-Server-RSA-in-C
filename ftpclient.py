@@ -18,5 +18,5 @@ def downloadFile():
  ftp.quit()
  localfile.close()
 
-uploadFile()
-#downloadFile()
+#uploadFile()
+downloadFile()
